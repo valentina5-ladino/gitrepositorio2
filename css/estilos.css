@@ -1,0 +1,26 @@
+body { 
+    background-color: black;
+}
+h1{
+    color: blanchedalmond;
+ }
+.centrar { 
+    margin: auto;
+    display: flex;
+    justify-content: center;
+} 
+.amarillo{
+    background-color:yellow;
+    height: 250px;
+} 
+.morado{
+    background-color:purple;
+    height: 250px;
+} 
+.rojo{
+    background-color:red;
+    height: 250px;
+} 
+p{
+    color: white;
+}
